@@ -8,3 +8,6 @@ c# visual studio olarak belirlenmiş geliştirme ortamında yapılmıştır.
 #öğretici yardımı alınmıştır.
 proje  25 mb dan büyük bir dosya bu sebebten aşağıdaki google drive linki üzerinden doğrudan erişebilirsiniz sql dosyası ve proje raporu repos u içersinde yer almaktadır.
 link: https://drive.google.com/file/d/1An2qk4g5XpumrwHipXEofYmQzx2GCAzc/view?usp=sharing
+
+
+kaynak : https://www.youtube.com/playlist?list=PLKnjBHu2xXNNRPqfdZC6hNmJKOqIIpqNj
